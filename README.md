@@ -23,7 +23,6 @@ Este repositório apresenta uma API que faz consultas de dados bancários de cli
 
 - [x] **Consultar todas as ocorrências do Banco de Dados**
 - [x] **Consultar uma única ocorrência pelo numero da Conta**
-- [ ] Consultar uma única ocorrência pelo Tipo da Conta
 
 
 # Tecnologias Usadas
