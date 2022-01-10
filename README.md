@@ -1,7 +1,7 @@
 # DesafioFinal_Grupo03_PCD02
 
 
-![Capa do Projeto](https://media.istockphoto.com/photos/business-man-sales-increase-revenue-shares-and-customer-marketing-picture-id1098158070?k=20&m=1098158070&s=612x612&w=0&h=lm5KQFnqKCWiRylf0V_RmCaDX69KXZOgerZtPju9JNk=)
+![Capa do Projeto](https://cdn.pixabay.com/photo/2016/11/27/21/42/stock-1863880_960_720.jpg)
 
 # Índice/Sumário
 
