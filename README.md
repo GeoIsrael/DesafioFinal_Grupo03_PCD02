@@ -1,7 +1,7 @@
 # DesafioFinal_Grupo03_PCD02
 
 
-![Capa do Projeto](https://cdn.pixabay.com/photo/2016/11/27/21/42/stock-1863880_960_720.jpg)
+![Capa do Projeto](https://cdn.pixabay.com/photo/2015/01/28/22/20/bookkeeping-615384_960_720.jpg)
 
 # Índice/Sumário
 
@@ -28,9 +28,9 @@ Este repositório apresenta uma API que faz consultas de dados bancários de cli
 
 # Tecnologias Usadas
 
-- [Java](https://flutter.dev/)
-- [MySQL](https://nodejs.org/en/)
-- [springboot](https://pt-br.reactjs.org/)
+- [Java](https://www.oracle.com/java/technologies/downloads/)
+- [MySQL](https://dev.mysql.com/downloads/file/?id=507825)
+- [springboot](https://start.spring.io)
 
 # Autores
 
