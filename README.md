@@ -1,4 +1,4 @@
-# DesafioFinal_Grupo03_PCD02
+# Desafio Final Grupo 03 PCD 02
 
 
 ![Capa do Projeto](https://cdn.pixabay.com/photo/2015/01/28/22/20/bookkeeping-615384_960_720.jpg)
@@ -15,7 +15,7 @@
 # Sobre o Projeto
 
 <h4 align="center"> 
-Este repositório apresenta uma API que faz consultas de dados bancários de clientes de uma instituição financeira. Para que isso fosse possível, ela foi integrada através do Mysql a fim de ter acesso ao banco de dados. A mesma foi construída na linguagem Java e foi utilizado o springboot que ();
+Este repositório apresenta uma API que faz consultas de dados bancários de clientes de uma instituição financeira. Para que isso fosse possível, ela foi integrada através do Mysql a fim de ter acesso ao banco de dados. A mesma foi construída na linguagem Java e foi utilizado o springboot que servio como framework que serviu como ferramenta nesse Projeto.
 </h4>
 
 
@@ -43,4 +43,6 @@ Este repositório apresenta uma API que faz consultas de dados bancários de cli
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Queremos agradecer a todos por apreciarem o nosso projeto e dizer que estamos muito felizes e realizados com o resultado obtido.
+Agradecemos também ao Itau e à Gama Academy por nos dar essa grande oportunidade de aprender e por terem contribuidos com a nossa capacitação para oferecer o nosso trabalho. Obrigada por acreditarem em nós e com certeza não iremos parar por aqui!
+
