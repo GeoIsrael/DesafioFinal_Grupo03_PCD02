@@ -34,11 +34,11 @@ Este repositório apresenta uma API que faz consultas de dados bancários de cli
 
 # Autores
 
-[Israel Salles Nogueira](https://github.com/GeoIsrael)
-[Jessica Rodrigues de Castro Souza] (https://github.com/JessycaCastro)
-[Joanderson Sobral dos Santos] (https://github.com/sobral25)
-[Joatan Novais Santos] (https://github.com/Joatan1989)
-[Jonas Domingos de Arruda]
+- [Israel Salles Nogueira](https://github.com/GeoIsrael)
+- [Jessica Rodrigues de Castro Souza] (https://github.com/JessycaCastro)
+- [Joanderson Sobral dos Santos] (https://github.com/sobral25)
+- [Joatan Novais Santos] (https://github.com/Joatan1989)
+- [Jonas Domingos de Arruda]
 
 
 # Agradecimentos
